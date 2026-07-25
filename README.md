@@ -45,7 +45,7 @@ MONAI works with the [currently supported versions of Python](https://devguide.p
 
 ## Installation
 
-to install [the current release](https://pypi.org/project/monai/), you can simply run:
+To install [the current release](https://pypi.org/project/monai/), you can simply run:
 
 ```bash
 pip install monai
